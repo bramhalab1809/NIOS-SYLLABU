@@ -1,0 +1,24 @@
+name: Update library index
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    paths: ["scripts/**"]
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install huggingface_hub
+      - run: python scripts/build_index.py
+      - run: |
+          git config user.name "library-bot"
+          git config user.email "library-bot@users.noreply.github.com"
+          git add data reports
+          git diff --cached --quiet || (git commit -m "chore: refresh index" && git push)
