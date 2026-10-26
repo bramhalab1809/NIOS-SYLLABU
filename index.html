@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#172b24">
+<meta name="description" content="A focused, searchable library for CA Foundation study PDFs.">
+<title>CA Foundation Library</title>
+<link rel="stylesheet" href="css/style.css?v=20261022b">
+</head>
+<body>
+<div id="bg" aria-hidden="true"></div>
+<header class="top">
+  <div class="bar">
+    <div class="brand"><span id="logo" aria-label="CA Foundation"></span><div class="bt"><h1>CA Foundation Library</h1><p id="meta">Loading your study library…</p></div></div>
+    <label class="search"><span id="searchIcon"></span>
+      <input id="q" type="search" enterkeyhint="search" placeholder="Search subjects, chapters, PDFs…" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <button id="clear" class="clear" hidden title="Clear" aria-label="Clear search"></button>
+    </label>
+    <div class="quick-actions" aria-label="Quick access">
+      <button id="openStarred" class="btn quick-action" title="Starred items" aria-label="Starred folders and PDFs"><span data-icon="star"></span></button>
+      <button id="openRecent" class="btn quick-action" title="Recently opened" aria-label="Recently opened history"><span data-icon="clock"></span></button>
+    </div>
+    <button id="openSettings" class="btn" title="Settings" aria-label="Settings"></button>
+  </div>
+  <div class="quickbar"><div id="chips" class="chips" hidden></div><span class="search-hint"><kbd>/</kbd> to search <span aria-hidden="true">·</span> <kbd>Enter</kbd> to open</span></div>
+</header>
+<div class="layout">
+  <main id="view" aria-live="polite"></main>
+  <aside id="side" aria-label="Starred and recent"></aside>
+</div>
+
+<div id="drawer" hidden>
+  <div id="scrim"></div>
+  <aside class="sheet" role="dialog" aria-label="Settings">
+    <div class="sh"><h2>Settings</h2><button id="closeSettings" class="btn" aria-label="Close settings"></button></div>
+    <div class="tabs" role="tablist">
+      <button class="tab" role="tab" data-tab="p-look" aria-label="Appearance" title="Appearance" aria-selected="true"><span class="tab-icon" data-icon="sun"></span></button>
+      <button class="tab" role="tab" data-tab="p-bg" aria-label="Background" title="Background" aria-selected="false"><span class="tab-icon" data-icon="image"></span></button>
+      <button class="tab" role="tab" data-tab="p-files" aria-label="Folders and files" title="Folders and files" aria-selected="false"><span class="tab-icon" data-icon="folder"></span></button>
+      <button class="tab" role="tab" data-tab="p-lib" aria-label="Library" title="Library" aria-selected="false"><span class="tab-icon" data-icon="library"></span></button>
+    </div>
+    <div class="panes">
+
+      <section class="pane" id="p-look">
+        <div class="lbl">Theme</div>
+        <div class="seg" data-seg="theme"><button data-v="light">Light</button><button data-v="dark">Dark</button><button data-v="system">System</button></div>
+        <div class="lbl">Accent colour</div>
+        <div class="sw">
+          <button data-accent="#d97757" aria-label="Clay"></button><button data-accent="#3b5bdb" aria-label="Blue"></button>
+          <button data-accent="#2f9e6b" aria-label="Green"></button><button data-accent="#7950f2" aria-label="Violet"></button>
+          <button data-accent="#e64980" aria-label="Rose"></button><button data-accent="#495057" aria-label="Slate"></button>
+          <input type="color" data-pref="accent" aria-label="Custom colour" title="Custom colour">
+        </div>
+        <div class="lbl">Reading font</div>
+        <div class="seg" data-seg="font"><button data-v="claude">Claude</button><button data-v="sans">Sans</button><button data-v="serif">Serif</button></div>
+        <div class="lbl"><span>Text size</span><em data-val="fontScale"></em></div>
+        <input type="range" min="0.85" max="1.3" step="0.05" data-pref="fontScale" aria-label="Text size">
+        <div class="lbl">Interface colours</div>
+        <div class="colour-controls">
+          <label>Page background <input type="color" data-pref="pageColor" aria-label="Page background colour"></label>
+          <label>Text colour <input type="color" data-pref="textColor" aria-label="Text colour"></label>
+          <label>Top bar colour <input type="color" data-pref="headerColor" aria-label="Top bar colour"></label>
+        </div>
+      </section>
+
+      <section class="pane" id="p-bg" hidden>
+        <div class="step"><div class="n">1</div><div class="sb">
+          <b>Make an image in Gemini</b>
+          <textarea data-pref="prompt" aria-label="Gemini prompt" rows="4"></textarea>
+          <div class="row2"><button class="btn2 primary grow" data-act="geminiOpen">Copy prompt, open Gemini</button><button class="btn2" data-act="promptReset">Reset</button></div>
+        </div></div>
+        <div class="step"><div class="n">2</div><div class="sb">
+          <b>Add your image</b>
+          <div class="row2"><label class="btn2 grow">Upload image<input type="file" id="bgFile" accept="image/*" hidden></label></div>
+          <div class="row2"><input id="bgUrl" type="url" placeholder="or paste an image link"><button class="btn2" data-act="bgUrlApply">Use</button></div>
+        </div></div>
+        <div class="step"><div class="n">3</div><div class="sb">
+          <b>Fine-tune</b>
+          <div class="lbl"><span>Dim</span><em data-val="bgDim"></em></div><input type="range" min="0" max="0.9" step="0.05" data-pref="bgDim" aria-label="Dim image">
+          <div class="lbl"><span>Blur</span><em data-val="bgBlur"></em></div><input type="range" min="0" max="20" step="1" data-pref="bgBlur" aria-label="Blur">
+          <div class="group sp"><label class="tg"><span>Match accent to image</span><input type="checkbox" data-pref="matchAccent"><i></i></label></div>
+          <button class="btn2 danger sp" data-act="bgRemove">Remove image</button>
+        </div></div>
+      </section>
+
+      <section class="pane" id="p-files" hidden>
+        <div class="group">
+          <label class="tg"><span>Show file sizes</span><input type="checkbox" data-pref="showSize"><i></i></label>
+          <label class="tg"><span>Show counts on folders</span><input type="checkbox" data-pref="showCount"><i></i></label>
+          <label class="tg"><span>Compact rows</span><input type="checkbox" data-pref="compact"><i></i></label>
+          <label class="tg"><span>Hide number prefixes (01_, 1.)</span><input type="checkbox" data-pref="cleanNames"><i></i></label>
+          <label class="tg"><span>Remember open folders</span><input type="checkbox" data-pref="rememberOpen"><i></i></label>
+          <label class="tg"><span>Open PDFs in a new tab</span><input type="checkbox" data-pref="newTab"><i></i></label>
+        </div>
+      </section>
+
+      <section class="pane" id="p-lib" hidden>
+        <div class="grid2">
+          <button class="btn2" data-act="expandAll">Expand all</button><button class="btn2" data-act="collapseAll">Collapse all</button>
+          <button class="btn2" data-act="clearRecent">Clear recent</button><button class="btn2" data-act="clearStars">Clear all starred items</button>
+        </div>
+        <button class="btn2 danger sp" data-act="resetAll">Reset all settings</button>
+      </section>
+
+    </div>
+  </aside>
+</div>
+<div id="quickAccess" hidden>
+  <button id="quickAccessScrim" class="qa-scrim" aria-label="Close quick access"></button>
+  <section class="qa-sheet" role="dialog" aria-modal="true" aria-labelledby="qaTitle">
+    <div class="qa-head"><div><h2 id="qaTitle">Starred items</h2><p id="qaSubtitle">Your saved folders and PDFs</p></div><button id="closeQuickAccess" class="btn" aria-label="Close"></button></div>
+    <div id="qaContent" class="qa-content"></div>
+  </section>
+</div>
+<div id="toast" role="status" hidden></div>
+<script type="module" src="js/app.js?v=20261022b"></script>
+</body>
+</html>
