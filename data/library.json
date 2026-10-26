@@ -1,4 +1,1320 @@
 {
-  "repo": "andy180926/NIOS-SYLLABUS",
-  "files": []
+ "generated": "2026-10-26T14:18:22.799499+00:00",
+ "repo": "andy180926/NIOS-SYLLABUS",
+ "files": [
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/ACC_Syllabus.pdf",
+   "title": "ACC Syllabus",
+   "size": 445379,
+   "subject": "Business Studies"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M00 - General/ACC_EN_M00_X01 - Introduction.pdf",
+   "title": "ACC EN M00 X01 - Introduction",
+   "size": 2127562,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M00 - General/ACC_EN_M00_X02 - Overview.pdf",
+   "title": "ACC EN M00 X02 - Overview",
+   "size": 19401,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M01 - Introduction and Basic Concepts/ACC_EN_M01_Ch01 - Introduction To Accounting.pdf",
+   "title": "ACC EN M01 Ch01 - Introduction To Accounting",
+   "size": 1495025,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M01 - Introduction and Basic Concepts/ACC_EN_M01_Ch02 - Accounting Concepts And Conventions.pdf",
+   "title": "ACC EN M01 Ch02 - Accounting Concepts And Conventions",
+   "size": 971541,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M01 - Introduction and Basic Concepts/ACC_EN_M01_Ch03 - Accounting Terms.pdf",
+   "title": "ACC EN M01 Ch03 - Accounting Terms",
+   "size": 1037084,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M02 - Journal and Other Subsidiary Books/ACC_EN_M02_Ch04 - Accounting Equations.pdf",
+   "title": "ACC EN M02 Ch04 - Accounting Equations",
+   "size": 1190508,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M02 - Journal and Other Subsidiary Books/ACC_EN_M02_Ch05 - Double Entry System.pdf",
+   "title": "ACC EN M02 Ch05 - Double Entry System",
+   "size": 1378991,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M02 - Journal and Other Subsidiary Books/ACC_EN_M02_Ch06 - Journal.pdf",
+   "title": "ACC EN M02 Ch06 - Journal",
+   "size": 881129,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M02 - Journal and Other Subsidiary Books/ACC_EN_M02_Ch07 - Cash Book.pdf",
+   "title": "ACC EN M02 Ch07 - Cash Book",
+   "size": 786062,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M02 - Journal and Other Subsidiary Books/ACC_EN_M02_Ch08 - Bank Reconciliation Statement.pdf",
+   "title": "ACC EN M02 Ch08 - Bank Reconciliation Statement",
+   "size": 1319829,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M02 - Journal and Other Subsidiary Books/ACC_EN_M02_Ch09 - Purchases and Sales Book.pdf",
+   "title": "ACC EN M02 Ch09 - Purchases and Sales Book",
+   "size": 1053586,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M03 - Ledger and Trial Balance/ACC_EN_M03_Ch10 - Ledger.pdf",
+   "title": "ACC EN M03 Ch10 - Ledger",
+   "size": 809001,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M03 - Ledger and Trial Balance/ACC_EN_M03_Ch11 - Trial Balance and Accounting Errors.pdf",
+   "title": "ACC EN M03 Ch11 - Trial Balance and Accounting Errors",
+   "size": 1164114,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M04 - Depreciation, Provisions and Reserves/ACC_EN_M04_Ch12 - Depreciation.pdf",
+   "title": "ACC EN M04 Ch12 - Depreciation",
+   "size": 908352,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M04 - Depreciation, Provisions and Reserves/ACC_EN_M04_Ch13 - Provisions and Reserves.pdf",
+   "title": "ACC EN M04 Ch13 - Provisions and Reserves",
+   "size": 1173071,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M05 - Preparation of Financial Statements/ACC_EN_M05_Ch14 - Financial Statements (Without Adjustments).pdf",
+   "title": "ACC EN M05 Ch14 - Financial Statements (Without Adjustments)",
+   "size": 738811,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M05 - Preparation of Financial Statements/ACC_EN_M05_Ch15 - Financial Statements (With Adjustments).pdf",
+   "title": "ACC EN M05 Ch15 - Financial Statements (With Adjustments)",
+   "size": 1861991,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M06 - Computer in Accounting/ACC_EN_M06_Ch16 - Computers in Accounting.pdf",
+   "title": "ACC EN M06 Ch16 - Computers in Accounting",
+   "size": 1150548,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/English Modules/M06 - Computer in Accounting/ACC_EN_M06_Ch17 - Introduction to Tally.pdf",
+   "title": "ACC EN M06 Ch17 - Introduction to Tally",
+   "size": 1428915,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 00 - सामान्य/लेखा_मॉ00_अतिरिक्त01 - संपूर्ण पुस्तक.pdf",
+   "title": "लेखा मॉ00 अतिरिक्त01 - संपूर्ण पुस्तक",
+   "size": 11672670,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 01 - परिचय और मूल अवधारणाएँ/लेखा_मॉ01_पाठ01 - लेखांकन का परिचय.pdf",
+   "title": "लेखा मॉ01 पाठ01 - लेखांकन का परिचय",
+   "size": 1511674,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 01 - परिचय और मूल अवधारणाएँ/लेखा_मॉ01_पाठ02 - लेखांकन अवधारणाएँ तथा परिपाटियाँ.pdf",
+   "title": "लेखा मॉ01 पाठ02 - लेखांकन अवधारणाएँ तथा परिपाटियाँ",
+   "size": 1061204,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 01 - परिचय और मूल अवधारणाएँ/लेखा_मॉ01_पाठ03 - लेखांकन शब्दावली.pdf",
+   "title": "लेखा मॉ01 पाठ03 - लेखांकन शब्दावली",
+   "size": 799064,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 02 - जर्नल तथा अन्य सहायक बहियाँ/लेखा_मॉ02_पाठ04 - लेखांकन समीकरण.pdf",
+   "title": "लेखा मॉ02 पाठ04 - लेखांकन समीकरण",
+   "size": 1090597,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 02 - जर्नल तथा अन्य सहायक बहियाँ/लेखा_मॉ02_पाठ05 - द्विपक्षीय लेखा प्रणाली.pdf",
+   "title": "लेखा मॉ02 पाठ05 - द्विपक्षीय लेखा प्रणाली",
+   "size": 1402992,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 02 - जर्नल तथा अन्य सहायक बहियाँ/लेखा_मॉ02_पाठ06 - जर्नल.pdf",
+   "title": "लेखा मॉ02 पाठ06 - जर्नल",
+   "size": 929511,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 02 - जर्नल तथा अन्य सहायक बहियाँ/लेखा_मॉ02_पाठ07 - रोकड़ बही.pdf",
+   "title": "लेखा मॉ02 पाठ07 - रोकड़ बही",
+   "size": 846252,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 02 - जर्नल तथा अन्य सहायक बहियाँ/लेखा_मॉ02_पाठ08 - बैंक समाधान विवरण.pdf",
+   "title": "लेखा मॉ02 पाठ08 - बैंक समाधान विवरण",
+   "size": 1385292,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 02 - जर्नल तथा अन्य सहायक बहियाँ/लेखा_मॉ02_पाठ09 - क्रय और विक्रय बही.pdf",
+   "title": "लेखा मॉ02 पाठ09 - क्रय और विक्रय बही",
+   "size": 742626,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 03 - खाताबही तथा तलपट/लेखा_मॉ03_पाठ10 - खाताबही.pdf",
+   "title": "लेखा मॉ03 पाठ10 - खाताबही",
+   "size": 875739,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 03 - खाताबही तथा तलपट/लेखा_मॉ03_पाठ11 - तलपट तथा लेखांकन त्रुटियाँ.pdf",
+   "title": "लेखा मॉ03 पाठ11 - तलपट तथा लेखांकन त्रुटियाँ",
+   "size": 1033357,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 04 - ह्रास, प्रावधान तथा संचय/लेखा_मॉ04_पाठ12 - ह्रास.pdf",
+   "title": "लेखा मॉ04 पाठ12 - ह्रास",
+   "size": 1044630,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 04 - ह्रास, प्रावधान तथा संचय/लेखा_मॉ04_पाठ13 - प्रावधान तथा संचय.pdf",
+   "title": "लेखा मॉ04 पाठ13 - प्रावधान तथा संचय",
+   "size": 651280,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 05 - वित्तीय विवरणों की तैयारी/लेखा_मॉ05_पाठ14 - वित्तीय विवरण (समायोजन रहित).pdf",
+   "title": "लेखा मॉ05 पाठ14 - वित्तीय विवरण (समायोजन रहित)",
+   "size": 843347,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 05 - वित्तीय विवरणों की तैयारी/लेखा_मॉ05_पाठ15 - वित्तीय विवरण (समायोजन सहित).pdf",
+   "title": "लेखा मॉ05 पाठ15 - वित्तीय विवरण (समायोजन सहित)",
+   "size": 709801,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 06 - लेखांकन में कंप्यूटर/लेखा_मॉ06_पाठ16 - लेखांकन में कंप्यूटर.pdf",
+   "title": "लेखा मॉ06 पाठ16 - लेखांकन में कंप्यूटर",
+   "size": 1160789,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Accountancy/Hindi Modules/मॉड्यूल 06 - लेखांकन में कंप्यूटर/लेखा_मॉ06_पाठ17 - टैली का परिचय.pdf",
+   "title": "लेखा मॉ06 पाठ17 - टैली का परिचय",
+   "size": 1468266,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/BST_Syllabus.pdf",
+   "title": "BST Syllabus",
+   "size": 240153,
+   "subject": "Business Studies"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M00 - General/BST_EN_M00_X01 - Curriculum.pdf",
+   "title": "BST EN M00 X01 - Curriculum",
+   "size": 276445,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M00 - General/BST_EN_M00_X02 - First Page.pdf",
+   "title": "BST EN M00 X02 - First Page",
+   "size": 19413,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M01 - Introduction to Business/BST_EN_M01_Ch01 - Nature and Scope of Business.pdf",
+   "title": "BST EN M01 Ch01 - Nature and Scope of Business",
+   "size": 1204465,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M01 - Introduction to Business/BST_EN_M01_Ch02 - Industry and Commerce.pdf",
+   "title": "BST EN M01 Ch02 - Industry and Commerce",
+   "size": 1175523,
+   "subject": "Business Studies"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M02 - Forms of Business Organisation/BST_EN_M02_Ch03 - Sole Proprietorship, Partnership & Hindu Undivided Family.pdf",
+   "title": "BST EN M02 Ch03 - Sole Proprietorship, Partnership & Hindu Undivided Family",
+   "size": 476661,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M02 - Forms of Business Organisation/BST_EN_M02_Ch04 - Cooperative Societies and Joint Stock Companies.pdf",
+   "title": "BST EN M02 Ch04 - Cooperative Societies and Joint Stock Companies",
+   "size": 791929,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M03 - Service Sector/BST_EN_M03_Ch05 - Transport Services.pdf",
+   "title": "BST EN M03 Ch05 - Transport Services",
+   "size": 1064374,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M03 - Service Sector/BST_EN_M03_Ch06 - Warehousing.pdf",
+   "title": "BST EN M03 Ch06 - Warehousing",
+   "size": 1354356,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M03 - Service Sector/BST_EN_M03_Ch07 - Communication Services.pdf",
+   "title": "BST EN M03 Ch07 - Communication Services",
+   "size": 957744,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M03 - Service Sector/BST_EN_M03_Ch08 - Postal and Courier Services.pdf",
+   "title": "BST EN M03 Ch08 - Postal and Courier Services",
+   "size": 671757,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M03 - Service Sector/BST_EN_M03_Ch09 - Banking Services.pdf",
+   "title": "BST EN M03 Ch09 - Banking Services",
+   "size": 1208003,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M03 - Service Sector/BST_EN_M03_Ch10 - Insurance Services.pdf",
+   "title": "BST EN M03 Ch10 - Insurance Services",
+   "size": 414855,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M03 - Service Sector/BST_EN_M03_Ch11 - Outsourcing.pdf",
+   "title": "BST EN M03 Ch11 - Outsourcing",
+   "size": 490443,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M04 - Trade and Marketing/BST_EN_M04_Ch12 - Purchase and Sale.pdf",
+   "title": "BST EN M04 Ch12 - Purchase and Sale",
+   "size": 772862,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M04 - Trade and Marketing/BST_EN_M04_Ch13 - Channels of Distribution.pdf",
+   "title": "BST EN M04 Ch13 - Channels of Distribution",
+   "size": 830239,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M04 - Trade and Marketing/BST_EN_M04_Ch14 - Retail Trade.pdf",
+   "title": "BST EN M04 Ch14 - Retail Trade",
+   "size": 1177585,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M04 - Trade and Marketing/BST_EN_M04_Ch15 - Advertising.pdf",
+   "title": "BST EN M04 Ch15 - Advertising",
+   "size": 924469,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M04 - Trade and Marketing/BST_EN_M04_Ch16 - Sales Promotion and Personal Selling.pdf",
+   "title": "BST EN M04 Ch16 - Sales Promotion and Personal Selling",
+   "size": 985180,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M05 - Consumer Awareness/BST_EN_M05_Ch17 - Rights and Responsibilities of Consumers.pdf",
+   "title": "BST EN M05 Ch17 - Rights and Responsibilities of Consumers",
+   "size": 453452,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M05 - Consumer Awareness/BST_EN_M05_Ch18 - Consumer Protection.pdf",
+   "title": "BST EN M05 Ch18 - Consumer Protection",
+   "size": 389048,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M06 - Livelihood Opportunities in Business/BST_EN_M06_Ch19 - Choosing a Career.pdf",
+   "title": "BST EN M06 Ch19 - Choosing a Career",
+   "size": 752221,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M06 - Livelihood Opportunities in Business/BST_EN_M06_Ch20 - Entrepreneurship.pdf",
+   "title": "BST EN M06 Ch20 - Entrepreneurship",
+   "size": 419413,
+   "subject": "Business Studies"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/English Modules/M07 - Practical Project Work/BST_EN_M07_Ch21 - Project Work.pdf",
+   "title": "BST EN M07 Ch21 - Project Work",
+   "size": 328126,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 00 - सामान्य/व्यवसाय_मॉ00_अतिरिक्त01 - विषयवस्तु.pdf",
+   "title": "व्यवसाय मॉ00 अतिरिक्त01 - विषयवस्तु",
+   "size": 52146,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 01 - व्यवसाय - परिचय/व्यवसाय_मॉ01_पाठ01 - व्यवसाय की प्रकृति तथा क्षेत्र.pdf",
+   "title": "व्यवसाय मॉ01 पाठ01 - व्यवसाय की प्रकृति तथा क्षेत्र",
+   "size": 1169846,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 01 - व्यवसाय - परिचय/व्यवसाय_मॉ01_पाठ02 - उद्योग तथा वाणिज्य.pdf",
+   "title": "व्यवसाय मॉ01 पाठ02 - उद्योग तथा वाणिज्य",
+   "size": 1099125,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 02 - व्यवसायिक संगढ्नों के प्रकार/व्यवसाय_मॉ02_पाठ03 - एकल स्वामित्व, साझेदारी तथा हिन्दू अविभाजित परिवार.pdf",
+   "title": "व्यवसाय मॉ02 पाठ03 - एकल स्वामित्व, साझेदारी तथा हिन्दू अविभाजित परिवार",
+   "size": 605714,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 02 - व्यवसायिक संगढ्नों के प्रकार/व्यवसाय_मॉ02_पाठ04 - सहकारी समितियाँ तथा संयुक्त पूंजी कंपनियाँ.pdf",
+   "title": "व्यवसाय मॉ02 पाठ04 - सहकारी समितियाँ तथा संयुक्त पूंजी कंपनियाँ",
+   "size": 917395,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 03 - सेवा क्ष्रेत्र (सर्विस सैक्टर)/व्यवसाय_मॉ03_पाठ05 - परिवहन सेवाएँ.pdf",
+   "title": "व्यवसाय मॉ03 पाठ05 - परिवहन सेवाएँ",
+   "size": 978154,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 03 - सेवा क्ष्रेत्र (सर्विस सैक्टर)/व्यवसाय_मॉ03_पाठ06 - भंडारण सेवाएँ.pdf",
+   "title": "व्यवसाय मॉ03 पाठ06 - भंडारण सेवाएँ",
+   "size": 1297725,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 03 - सेवा क्ष्रेत्र (सर्विस सैक्टर)/व्यवसाय_मॉ03_पाठ07 - संप्रेषन सेवाएँ.pdf",
+   "title": "व्यवसाय मॉ03 पाठ07 - संप्रेषन सेवाएँ",
+   "size": 666285,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 03 - सेवा क्ष्रेत्र (सर्विस सैक्टर)/व्यवसाय_मॉ03_पाठ08 - डाक एवम कोरियर सेवाएँ.pdf",
+   "title": "व्यवसाय मॉ03 पाठ08 - डाक एवम कोरियर सेवाएँ",
+   "size": 617039,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 03 - सेवा क्ष्रेत्र (सर्विस सैक्टर)/व्यवसाय_मॉ03_पाठ09 - बैंकिंग सेवाएँ.pdf",
+   "title": "व्यवसाय मॉ03 पाठ09 - बैंकिंग सेवाएँ",
+   "size": 1274364,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 03 - सेवा क्ष्रेत्र (सर्विस सैक्टर)/व्यवसाय_मॉ03_पाठ10 - बीमा.pdf",
+   "title": "व्यवसाय मॉ03 पाठ10 - बीमा",
+   "size": 381992,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 03 - सेवा क्ष्रेत्र (सर्विस सैक्टर)/व्यवसाय_मॉ03_पाठ11 - बाहयसत्रोतीकरण.pdf",
+   "title": "व्यवसाय मॉ03 पाठ11 - बाहयसत्रोतीकरण",
+   "size": 452371,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 04 - व्यापार और विपणन/व्यवसाय_मॉ04_पाठ12 - क्र्य-विक्रय.pdf",
+   "title": "व्यवसाय मॉ04 पाठ12 - क्र्य-विक्रय",
+   "size": 685622,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 04 - व्यापार और विपणन/व्यवसाय_मॉ04_पाठ13 - वितरण के माध्यम.pdf",
+   "title": "व्यवसाय मॉ04 पाठ13 - वितरण के माध्यम",
+   "size": 505899,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 04 - व्यापार और विपणन/व्यवसाय_मॉ04_पाठ14 - फुटकर व्यापार.pdf",
+   "title": "व्यवसाय मॉ04 पाठ14 - फुटकर व्यापार",
+   "size": 1048902,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 04 - व्यापार और विपणन/व्यवसाय_मॉ04_पाठ15 - विज्ञापन.pdf",
+   "title": "व्यवसाय मॉ04 पाठ15 - विज्ञापन",
+   "size": 855261,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 04 - व्यापार और विपणन/व्यवसाय_मॉ04_पाठ16 - विक्रय प्रवर्तन ऐवम व्यक्तिगत विक्रय.pdf",
+   "title": "व्यवसाय मॉ04 पाठ16 - विक्रय प्रवर्तन ऐवम व्यक्तिगत विक्रय",
+   "size": 926128,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 05 - उपभोक्ता जागरूकता/व्यवसाय_मॉ05_पाठ17 - उपभोक्ता के अधिकार एव्म उत्तरदायित्व.pdf",
+   "title": "व्यवसाय मॉ05 पाठ17 - उपभोक्ता के अधिकार एव्म उत्तरदायित्व",
+   "size": 350982,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 05 - उपभोक्ता जागरूकता/व्यवसाय_मॉ05_पाठ18 - उपभोक्ता संरक्षण.pdf",
+   "title": "व्यवसाय मॉ05 पाठ18 - उपभोक्ता संरक्षण",
+   "size": 324347,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 06 - व्यापार मैं जीवकोपार्जन के अवसर/व्यवसाय_मॉ06_पाठ19 - जीविका का चयन.pdf",
+   "title": "व्यवसाय मॉ06 पाठ19 - जीविका का चयन",
+   "size": 639747,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 06 - व्यापार मैं जीवकोपार्जन के अवसर/व्यवसाय_मॉ06_पाठ20 - उद्यमिता.pdf",
+   "title": "व्यवसाय मॉ06 पाठ20 - उद्यमिता",
+   "size": 354561,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Business Studies/Hindi Modules/मॉड्यूल 07 - प्र्योगात्मक परियोजना कार्य/व्यवसाय_मॉ07_पाठ21 - प्रयोगात्मक परियोजना कार्य.pdf",
+   "title": "व्यवसाय मॉ07 पाठ21 - प्रयोगात्मक परियोजना कार्य",
+   "size": 168871,
+   "subject": "Hindi"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/ECO_Syllabus.pdf",
+   "title": "ECO Syllabus",
+   "size": 61050,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M00 - General/ECO_EN_M00_X01 - First Page.pdf",
+   "title": "ECO EN M00 X01 - First Page",
+   "size": 19403,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M01 - Understanding Economics/ECO_EN_M01_Ch01 - What is Economics.pdf",
+   "title": "ECO EN M01 Ch01 - What is Economics",
+   "size": 340243,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M01 - Understanding Economics/ECO_EN_M01_Ch02 - Human Wants.pdf",
+   "title": "ECO EN M01 Ch02 - Human Wants",
+   "size": 356988,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M01 - Understanding Economics/ECO_EN_M01_Ch03 - Goods and Services.pdf",
+   "title": "ECO EN M01 Ch03 - Goods and Services",
+   "size": 347041,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M02 - About Economy/ECO_EN_M02_Ch04 - Economy - Its Meaning and Types.pdf",
+   "title": "ECO EN M02 Ch04 - Economy - Its Meaning and Types",
+   "size": 367080,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M02 - About Economy/ECO_EN_M02_Ch05 - Central Problems of an Economy.pdf",
+   "title": "ECO EN M02 Ch05 - Central Problems of an Economy",
+   "size": 361241,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M02 - About Economy/ECO_EN_M02_Ch06 - Basic Economic Activities.pdf",
+   "title": "ECO EN M02 Ch06 - Basic Economic Activities",
+   "size": 660375,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M03 - Producing Goods and Services/ECO_EN_M03_Ch07 - Production.pdf",
+   "title": "ECO EN M03 Ch07 - Production",
+   "size": 407258,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M03 - Producing Goods and Services/ECO_EN_M03_Ch08 - Cost and Revenue.pdf",
+   "title": "ECO EN M03 Ch08 - Cost and Revenue",
+   "size": 370211,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M04 - Distribution of Goods and Services/ECO_EN_M04_Ch09 - Demand.pdf",
+   "title": "ECO EN M04 Ch09 - Demand",
+   "size": 398388,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M04 - Distribution of Goods and Services/ECO_EN_M04_Ch10 - Supply.pdf",
+   "title": "ECO EN M04 Ch10 - Supply",
+   "size": 394139,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M04 - Distribution of Goods and Services/ECO_EN_M04_Ch11 - Determination of Price and Quantity.pdf",
+   "title": "ECO EN M04 Ch11 - Determination of Price and Quantity",
+   "size": 348271,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M04 - Distribution of Goods and Services/ECO_EN_M04_Ch12 - Market.pdf",
+   "title": "ECO EN M04 Ch12 - Market",
+   "size": 352785,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M04 - Distribution of Goods and Services/ECO_EN_M04_Ch13 - Role of Government in Determination of Price and Quantity.pdf",
+   "title": "ECO EN M04 Ch13 - Role of Government in Determination of Price and Quantity",
+   "size": 349370,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M05 - Money, Banking and Insurance/ECO_EN_M05_Ch14 - Money and Its Roles.pdf",
+   "title": "ECO EN M05 Ch14 - Money and Its Roles",
+   "size": 353343,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M05 - Money, Banking and Insurance/ECO_EN_M05_Ch15 - Banking and Credit.pdf",
+   "title": "ECO EN M05 Ch15 - Banking and Credit",
+   "size": 782556,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M05 - Money, Banking and Insurance/ECO_EN_M05_Ch16 - Savings and Insurance.pdf",
+   "title": "ECO EN M05 Ch16 - Savings and Insurance",
+   "size": 380146,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M06 - Presentation and Analysis of Data in Economics/ECO_EN_M06_Ch17 - Collection and Presentation of Data.pdf",
+   "title": "ECO EN M06 Ch17 - Collection and Presentation of Data",
+   "size": 504814,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M06 - Presentation and Analysis of Data in Economics/ECO_EN_M06_Ch18 - Analysis of Data.pdf",
+   "title": "ECO EN M06 Ch18 - Analysis of Data",
+   "size": 366447,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M07 - Indian Economy/ECO_EN_M07_Ch19 - An Overview of Indian Economy.pdf",
+   "title": "ECO EN M07 Ch19 - An Overview of Indian Economy",
+   "size": 388802,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M07 - Indian Economy/ECO_EN_M07_Ch20 - Sectoral Aspects of Indian Economy.pdf",
+   "title": "ECO EN M07 Ch20 - Sectoral Aspects of Indian Economy",
+   "size": 405634,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M07 - Indian Economy/ECO_EN_M07_Ch21 - Challenges before Indian Economy.pdf",
+   "title": "ECO EN M07 Ch21 - Challenges before Indian Economy",
+   "size": 359363,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M07 - Indian Economy/ECO_EN_M07_Ch22 - Indian Economy in Global Context.pdf",
+   "title": "ECO EN M07 Ch22 - Indian Economy in Global Context",
+   "size": 345378,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M08 - Contemporary Economic Issues/ECO_EN_M08_Ch23 - Environment and Sustainable Development.pdf",
+   "title": "ECO EN M08 Ch23 - Environment and Sustainable Development",
+   "size": 387446,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/English Modules/M08 - Contemporary Economic Issues/ECO_EN_M08_Ch24 - Consumer Awareness.pdf",
+   "title": "ECO EN M08 Ch24 - Consumer Awareness",
+   "size": 385597,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 01 - अर्थशास्त्र को समझना/अर्थशास्त्र_मॉ01_पाठ01 - अर्थशास्त्र क्या हे.pdf",
+   "title": "अर्थशास्त्र मॉ01 पाठ01 - अर्थशास्त्र क्या हे",
+   "size": 324095,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 01 - अर्थशास्त्र को समझना/अर्थशास्त्र_मॉ01_पाठ02 - मानवीय आवश्यकताएँ.pdf",
+   "title": "अर्थशास्त्र मॉ01 पाठ02 - मानवीय आवश्यकताएँ",
+   "size": 321350,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 01 - अर्थशास्त्र को समझना/अर्थशास्त्र_मॉ01_पाठ03 - वस्तुएँ और सेवाएँ.pdf",
+   "title": "अर्थशास्त्र मॉ01 पाठ03 - वस्तुएँ और सेवाएँ",
+   "size": 324204,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 02 - अर्थव्यवस्था के विषय मैं/अर्थशास्त्र_मॉ02_पाठ04 - अर्थव्यवस्था - अभिप्राय तथा प्रकार.pdf",
+   "title": "अर्थशास्त्र मॉ02 पाठ04 - अर्थव्यवस्था - अभिप्राय तथा प्रकार",
+   "size": 326646,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 02 - अर्थव्यवस्था के विषय मैं/अर्थशास्त्र_मॉ02_पाठ05 - अर्थव्यवस्था की केन्द्रीय समस्याएँ.pdf",
+   "title": "अर्थशास्त्र मॉ02 पाठ05 - अर्थव्यवस्था की केन्द्रीय समस्याएँ",
+   "size": 326475,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 02 - अर्थव्यवस्था के विषय मैं/अर्थशास्त्र_मॉ02_पाठ06 - मूल आर्थिक गतिविधियां.pdf",
+   "title": "अर्थशास्त्र मॉ02 पाठ06 - मूल आर्थिक गतिविधियां",
+   "size": 562335,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 03 - वस्तुओ और सेवाओ का उत्पादन करना/अर्थशास्त्र_मॉ03_पाठ07 - उत्पादन.pdf",
+   "title": "अर्थशास्त्र मॉ03 पाठ07 - उत्पादन",
+   "size": 384674,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 03 - वस्तुओ और सेवाओ का उत्पादन करना/अर्थशास्त्र_मॉ03_पाठ08 - लागत तथा आगम.pdf",
+   "title": "अर्थशास्त्र मॉ03 पाठ08 - लागत तथा आगम",
+   "size": 363271,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 04 - वस्तुओ और सेवाओ का वितरण/अर्थशास्त्र_मॉ04_पाठ09 - माँग.pdf",
+   "title": "अर्थशास्त्र मॉ04 पाठ09 - माँग",
+   "size": 366721,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 04 - वस्तुओ और सेवाओ का वितरण/अर्थशास्त्र_मॉ04_पाठ10 - आपूर्ति.pdf",
+   "title": "अर्थशास्त्र मॉ04 पाठ10 - आपूर्ति",
+   "size": 363221,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 04 - वस्तुओ और सेवाओ का वितरण/अर्थशास्त्र_मॉ04_पाठ11 - कीमत और मात्रा का निर्धारण.pdf",
+   "title": "अर्थशास्त्र मॉ04 पाठ11 - कीमत और मात्रा का निर्धारण",
+   "size": 319299,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 04 - वस्तुओ और सेवाओ का वितरण/अर्थशास्त्र_मॉ04_पाठ12 - बाजार.pdf",
+   "title": "अर्थशास्त्र मॉ04 पाठ12 - बाजार",
+   "size": 322589,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 04 - वस्तुओ और सेवाओ का वितरण/अर्थशास्त्र_मॉ04_पाठ13 - कीमत और मात्रा के निर्धारण मे सरकार की भूमिका.pdf",
+   "title": "अर्थशास्त्र मॉ04 पाठ13 - कीमत और मात्रा के निर्धारण मे सरकार की भूमिका",
+   "size": 320693,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 05 - मुद्रा, बैंकिंग तथा बीमा/अर्थशास्त्र_मॉ05_पाठ14 - मुद्रा और उसकी भूमिका.pdf",
+   "title": "अर्थशास्त्र मॉ05 पाठ14 - मुद्रा और उसकी भूमिका",
+   "size": 328759,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 05 - मुद्रा, बैंकिंग तथा बीमा/अर्थशास्त्र_मॉ05_पाठ15 - बैंकिंग और साख.pdf",
+   "title": "अर्थशास्त्र मॉ05 पाठ15 - बैंकिंग और साख",
+   "size": 731468,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 05 - मुद्रा, बैंकिंग तथा बीमा/अर्थशास्त्र_मॉ05_पाठ16 - बचत और बीमा.pdf",
+   "title": "अर्थशास्त्र मॉ05 पाठ16 - बचत और बीमा",
+   "size": 341532,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 06 - अर्थव्यवस्था मे आंकढ़ो का प्रस्तुतिकरण और विषलेषन/अर्थशास्त्र_मॉ06_पाठ17 - आंकढ़ो का संकलन और प्रस्तुतीकरण.pdf",
+   "title": "अर्थशास्त्र मॉ06 पाठ17 - आंकढ़ो का संकलन और प्रस्तुतीकरण",
+   "size": 489704,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 06 - अर्थव्यवस्था मे आंकढ़ो का प्रस्तुतिकरण और विषलेषन/अर्थशास्त्र_मॉ06_पाठ18 - आंकढ़ो का विषलेषन.pdf",
+   "title": "अर्थशास्त्र मॉ06 पाठ18 - आंकढ़ो का विषलेषन",
+   "size": 331397,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 07 - भारतीय अर्थव्यवस्था/अर्थशास्त्र_मॉ07_पाठ19 - भारतीय अर्थव्यवस्था - एक विहंगम दृष्टि.pdf",
+   "title": "अर्थशास्त्र मॉ07 पाठ19 - भारतीय अर्थव्यवस्था - एक विहंगम दृष्टि",
+   "size": 376940,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 07 - भारतीय अर्थव्यवस्था/अर्थशास्त्र_मॉ07_पाठ20 - भारतीय अर्थव्यवस्था - के क्षेत्रक पहलू.pdf",
+   "title": "अर्थशास्त्र मॉ07 पाठ20 - भारतीय अर्थव्यवस्था - के क्षेत्रक पहलू",
+   "size": 358911,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 07 - भारतीय अर्थव्यवस्था/अर्थशास्त्र_मॉ07_पाठ21 - भारतीय अर्थव्यवस्था के सम्मुख चुनौतियाँ.pdf",
+   "title": "अर्थशास्त्र मॉ07 पाठ21 - भारतीय अर्थव्यवस्था के सम्मुख चुनौतियाँ",
+   "size": 351049,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 07 - भारतीय अर्थव्यवस्था/अर्थशास्त्र_मॉ07_पाठ22 - भारतीय अर्थव्यवस्था - विशव के संदर्भ मैं.pdf",
+   "title": "अर्थशास्त्र मॉ07 पाठ22 - भारतीय अर्थव्यवस्था - विशव के संदर्भ मैं",
+   "size": 323666,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 08 - समकालिक आर्थिक समस्याएँ/अर्थशास्त्र_मॉ08_पाठ23 - पर्यावरण तथा धारणीय विकास.pdf",
+   "title": "अर्थशास्त्र मॉ08 पाठ23 - पर्यावरण तथा धारणीय विकास",
+   "size": 357743,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Economics/Hindi Modules/मॉड्यूल 08 - समकालिक आर्थिक समस्याएँ/अर्थशास्त्र_मॉ08_पाठ24 - उपभोक्ता जागरूकता.pdf",
+   "title": "अर्थशास्त्र मॉ08 पाठ24 - उपभोक्ता जागरूकता",
+   "size": 373702,
+   "subject": "Social Science"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/ENG_Syllabus.pdf",
+   "title": "ENG Syllabus",
+   "size": 200292,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M00 - General/ENG_EN_M00_X01 - First Page.pdf",
+   "title": "ENG EN M00 X01 - First Page",
+   "size": 19435,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M00 - General/ENG_EN_M00_X02 - Learner Guide.pdf",
+   "title": "ENG EN M00 X02 - Learner Guide",
+   "size": 438341,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M01 - Book 1/ENG_EN_M01_Ch01 - Snake Bite.pdf",
+   "title": "ENG EN M01 Ch01 - Snake Bite",
+   "size": 181297,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M01 - Book 1/ENG_EN_M01_Ch02 - How the Squirrel Got Its Stripes.pdf",
+   "title": "ENG EN M01 Ch02 - How the Squirrel Got Its Stripes",
+   "size": 186207,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M01 - Book 1/ENG_EN_M01_Ch03 - Kondiba A Hero.pdf",
+   "title": "ENG EN M01 Ch03 - Kondiba A Hero",
+   "size": 301886,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M01 - Book 1/ENG_EN_M01_Ch04 - Tall Trees.pdf",
+   "title": "ENG EN M01 Ch04 - Tall Trees",
+   "size": 185615,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M01 - Book 1/ENG_EN_M01_Ch05 - A Tiger Comes to Town I.pdf",
+   "title": "ENG EN M01 Ch05 - A Tiger Comes to Town I",
+   "size": 331030,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M01 - Book 1/ENG_EN_M01_Ch06 - A Tiger Comes to Town II.pdf",
+   "title": "ENG EN M01 Ch06 - A Tiger Comes to Town II",
+   "size": 419774,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M01 - Book 1/ENG_EN_M01_Ch07 - The Shoeshine.pdf",
+   "title": "ENG EN M01 Ch07 - The Shoeshine",
+   "size": 224638,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M01 - Book 1/ENG_EN_M01_Ch08 - A Birthday Letter.pdf",
+   "title": "ENG EN M01 Ch08 - A Birthday Letter",
+   "size": 202070,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M01 - Book 1/ENG_EN_M01_Ch09 - Nine Gold Medals.pdf",
+   "title": "ENG EN M01 Ch09 - Nine Gold Medals",
+   "size": 303773,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M01 - Book 1/ENG_EN_M01_Ch10 - Noise How It Affects Our Lives.pdf",
+   "title": "ENG EN M01 Ch10 - Noise How It Affects Our Lives",
+   "size": 236532,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M01 - Book 1/ENG_EN_M01_Ch11 - My Elder Brother.pdf",
+   "title": "ENG EN M01 Ch11 - My Elder Brother",
+   "size": 237560,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M01 - Book 1/ENG_EN_M01_Ch12 - Indian Weavers.pdf",
+   "title": "ENG EN M01 Ch12 - Indian Weavers",
+   "size": 197375,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M01 - Book 1/ENG_EN_M01_Ch13 - The Last Stone Mason.pdf",
+   "title": "ENG EN M01 Ch13 - The Last Stone Mason",
+   "size": 249222,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M01 - Book 1/ENG_EN_M01_Ch14 - Stealing and Atonement.pdf",
+   "title": "ENG EN M01 Ch14 - Stealing and Atonement",
+   "size": 170000,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M02 - Book 2/ENG_EN_M02_Ch15 - My Vision for India.pdf",
+   "title": "ENG EN M02 Ch15 - My Vision for India",
+   "size": 193121,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M02 - Book 2/ENG_EN_M02_Ch16 - My Only Cry.pdf",
+   "title": "ENG EN M02 Ch16 - My Only Cry",
+   "size": 390015,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M02 - Book 2/ENG_EN_M02_Ch17 - Caring for Others.pdf",
+   "title": "ENG EN M02 Ch17 - Caring for Others",
+   "size": 221961,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M02 - Book 2/ENG_EN_M02_Ch18 - The Little Girl.pdf",
+   "title": "ENG EN M02 Ch18 - The Little Girl",
+   "size": 252646,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M02 - Book 2/ENG_EN_M02_Ch19 - A Prayer for Healing.pdf",
+   "title": "ENG EN M02 Ch19 - A Prayer for Healing",
+   "size": 265716,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M02 - Book 2/ENG_EN_M02_Ch20 - New Good Things from Rubbish.pdf",
+   "title": "ENG EN M02 Ch20 - New Good Things from Rubbish",
+   "size": 261300,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M02 - Book 2/ENG_EN_M02_Ch21 - The Village Pharmacy.pdf",
+   "title": "ENG EN M02 Ch21 - The Village Pharmacy",
+   "size": 264427,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M02 - Book 2/ENG_EN_M02_Ch22 - The Truth.pdf",
+   "title": "ENG EN M02 Ch22 - The Truth",
+   "size": 147885,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M02 - Book 2/ENG_EN_M02_Ch23 - The Return of the Lion.pdf",
+   "title": "ENG EN M02 Ch23 - The Return of the Lion",
+   "size": 146869,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M02 - Book 2/ENG_EN_M02_Ch24 - Co-operate and Prosper.pdf",
+   "title": "ENG EN M02 Ch24 - Co-operate and Prosper",
+   "size": 437609,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M02 - Book 2/ENG_EN_M02_Ch25 - Once Upon a Time.pdf",
+   "title": "ENG EN M02 Ch25 - Once Upon a Time",
+   "size": 161425,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M02 - Book 2/ENG_EN_M02_Ch26 - Ustad Bismillah Khan.pdf",
+   "title": "ENG EN M02 Ch26 - Ustad Bismillah Khan",
+   "size": 373477,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/English/M02 - Book 2/ENG_EN_M02_Ch27 - The Parrot Who Wouldn't Talk.pdf",
+   "title": "ENG EN M02 Ch27 - The Parrot Who Wouldn't Talk",
+   "size": 868092,
+   "subject": "English"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M00 - General/MAT_EN_M00_X01 - First Page.pdf",
+   "title": "MAT EN M00 X01 - First Page",
+   "size": 19357,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M00 - General/MAT_EN_M00_X02 - Lab Manual.pdf",
+   "title": "MAT EN M00 X02 - Lab Manual",
+   "size": 1340572,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M01 - Algebra/MAT_EN_M01_Ch01 - Number Systems.pdf",
+   "title": "MAT EN M01 Ch01 - Number Systems",
+   "size": 268883,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M01 - Algebra/MAT_EN_M01_Ch02 - Exponents and Radicals.pdf",
+   "title": "MAT EN M01 Ch02 - Exponents and Radicals",
+   "size": 714797,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M01 - Algebra/MAT_EN_M01_Ch03 - Algebraic Expressions and Polynomials.pdf",
+   "title": "MAT EN M01 Ch03 - Algebraic Expressions and Polynomials",
+   "size": 183533,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M01 - Algebra/MAT_EN_M01_Ch04 - Special Products and Factorization.pdf",
+   "title": "MAT EN M01 Ch04 - Special Products and Factorization",
+   "size": 293860,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M01 - Algebra/MAT_EN_M01_Ch05 - Linear Equations.pdf",
+   "title": "MAT EN M01 Ch05 - Linear Equations",
+   "size": 390648,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M01 - Algebra/MAT_EN_M01_Ch06 - Quadratic Equations.pdf",
+   "title": "MAT EN M01 Ch06 - Quadratic Equations",
+   "size": 115954,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M01 - Algebra/MAT_EN_M01_Ch07 - Arithmetic Progressions.pdf",
+   "title": "MAT EN M01 Ch07 - Arithmetic Progressions",
+   "size": 163573,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M02 - Commercial Mathematics/MAT_EN_M02_Ch08 - Percentage and its Applications.pdf",
+   "title": "MAT EN M02 Ch08 - Percentage and its Applications",
+   "size": 533664,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M02 - Commercial Mathematics/MAT_EN_M02_Ch09 - Instalment Buying.pdf",
+   "title": "MAT EN M02 Ch09 - Instalment Buying",
+   "size": 512317,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M03 - Geometry/MAT_EN_M03_Ch10 - Lines and Angles.pdf",
+   "title": "MAT EN M03 Ch10 - Lines and Angles",
+   "size": 2136273,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M03 - Geometry/MAT_EN_M03_Ch11 - Congruence of Triangles.pdf",
+   "title": "MAT EN M03 Ch11 - Congruence of Triangles",
+   "size": 1419863,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M03 - Geometry/MAT_EN_M03_Ch12 - Concurrent Lines.pdf",
+   "title": "MAT EN M03 Ch12 - Concurrent Lines",
+   "size": 200459,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M03 - Geometry/MAT_EN_M03_Ch13 - Quadrilaterals.pdf",
+   "title": "MAT EN M03 Ch13 - Quadrilaterals",
+   "size": 2575482,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M03 - Geometry/MAT_EN_M03_Ch14 - Similarity of Triangles.pdf",
+   "title": "MAT EN M03 Ch14 - Similarity of Triangles",
+   "size": 1340429,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M03 - Geometry/MAT_EN_M03_Ch15 - Circles.pdf",
+   "title": "MAT EN M03 Ch15 - Circles",
+   "size": 1211388,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M03 - Geometry/MAT_EN_M03_Ch16 - Angles in a Circle and Cyclic Quadrilateral.pdf",
+   "title": "MAT EN M03 Ch16 - Angles in a Circle and Cyclic Quadrilateral",
+   "size": 1144113,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M03 - Geometry/MAT_EN_M03_Ch17 - Secants, Tangents and their Properties.pdf",
+   "title": "MAT EN M03 Ch17 - Secants, Tangents and their Properties",
+   "size": 1387699,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M03 - Geometry/MAT_EN_M03_Ch18 - Constructions.pdf",
+   "title": "MAT EN M03 Ch18 - Constructions",
+   "size": 496447,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M03 - Geometry/MAT_EN_M03_Ch19 - Co-ordinate Geometry.pdf",
+   "title": "MAT EN M03 Ch19 - Co-ordinate Geometry",
+   "size": 1131359,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M04 - Mensuration/MAT_EN_M04_Ch20 - Perimeters and Area of Plane Figures.pdf",
+   "title": "MAT EN M04 Ch20 - Perimeters and Area of Plane Figures",
+   "size": 301663,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M04 - Mensuration/MAT_EN_M04_Ch21 - Surface Area and Volume of Solid Figures.pdf",
+   "title": "MAT EN M04 Ch21 - Surface Area and Volume of Solid Figures",
+   "size": 426297,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M05 - Trigonometry/MAT_EN_M05_Ch22 - Introduction to Trigonometry.pdf",
+   "title": "MAT EN M05 Ch22 - Introduction to Trigonometry",
+   "size": 417076,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M05 - Trigonometry/MAT_EN_M05_Ch23 - Trigonometric Ratios of Some Special Angles.pdf",
+   "title": "MAT EN M05 Ch23 - Trigonometric Ratios of Some Special Angles",
+   "size": 325311,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M06 - Statistics/MAT_EN_M06_Ch24 - Data and Their Representation.pdf",
+   "title": "MAT EN M06 Ch24 - Data and Their Representation",
+   "size": 380651,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M06 - Statistics/MAT_EN_M06_Ch25 - Measures of Central Tendency.pdf",
+   "title": "MAT EN M06 Ch25 - Measures of Central Tendency",
+   "size": 239722,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/English Modules/M06 - Statistics/MAT_EN_M06_Ch26 - Introduction to Probability.pdf",
+   "title": "MAT EN M06 Ch26 - Introduction to Probability",
+   "size": 172225,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 00 - सामान्य/गणित_मॉ00_अतिरिक्त01 - प्रयोगशाला मैन्युअल.pdf",
+   "title": "गणित मॉ00 अतिरिक्त01 - प्रयोगशाला मैन्युअल",
+   "size": 3073298,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 01 - बीजगणित/गणित_मॉ01_पाठ01 - संख्या प्धतियाँ.pdf",
+   "title": "गणित मॉ01 पाठ01 - संख्या प्धतियाँ",
+   "size": 751667,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 01 - बीजगणित/गणित_मॉ01_पाठ02 - घातांक तथा करणी.pdf",
+   "title": "गणित मॉ01 पाठ02 - घातांक तथा करणी",
+   "size": 895057,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 01 - बीजगणित/गणित_मॉ01_पाठ03 - बीजीय व्यंजक तथा बहुपद.pdf",
+   "title": "गणित मॉ01 पाठ03 - बीजीय व्यंजक तथा बहुपद",
+   "size": 524732,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 01 - बीजगणित/गणित_मॉ01_पाठ04 - विशेष गुणनफल तथा गुणनखंडन.pdf",
+   "title": "गणित मॉ01 पाठ04 - विशेष गुणनफल तथा गुणनखंडन",
+   "size": 773911,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 01 - बीजगणित/गणित_मॉ01_पाठ05 - रैखिक समीकरण.pdf",
+   "title": "गणित मॉ01 पाठ05 - रैखिक समीकरण",
+   "size": 571831,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 01 - बीजगणित/गणित_मॉ01_पाठ06 - द्विघात समीकरण.pdf",
+   "title": "गणित मॉ01 पाठ06 - द्विघात समीकरण",
+   "size": 349483,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 01 - बीजगणित/गणित_मॉ01_पाठ07 - समांतर श्रेढ़ी.pdf",
+   "title": "गणित मॉ01 पाठ07 - समांतर श्रेढ़ी",
+   "size": 411718,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 02 - वाणिज्यिक गणित/गणित_मॉ02_पाठ08 - प्रतिशतता और इसके अनुप्रयोग.pdf",
+   "title": "गणित मॉ02 पाठ08 - प्रतिशतता और इसके अनुप्रयोग",
+   "size": 740115,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 02 - वाणिज्यिक गणित/गणित_मॉ02_पाठ09 - किश्तों किस्तों मे ख़रीदारी.pdf",
+   "title": "गणित मॉ02 पाठ09 - किश्तों किस्तों मे ख़रीदारी",
+   "size": 494314,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 03 - ज्यामिति/गणित_मॉ03_पाठ10 - रेखाएँ तथा कोण.pdf",
+   "title": "गणित मॉ03 पाठ10 - रेखाएँ तथा कोण",
+   "size": 2304547,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 03 - ज्यामिति/गणित_मॉ03_पाठ11 - त्रिभुजों की सर्वांगसमता.pdf",
+   "title": "गणित मॉ03 पाठ11 - त्रिभुजों की सर्वांगसमता",
+   "size": 2069714,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 03 - ज्यामिति/गणित_मॉ03_पाठ12 - संगामी रेखाएँ.pdf",
+   "title": "गणित मॉ03 पाठ12 - संगामी रेखाएँ",
+   "size": 423162,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 03 - ज्यामिति/गणित_मॉ03_पाठ13 - चतुर्भुज.pdf",
+   "title": "गणित मॉ03 पाठ13 - चतुर्भुज",
+   "size": 2808558,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 03 - ज्यामिति/गणित_मॉ03_पाठ14 - त्रिभुजों की समरूपता.pdf",
+   "title": "गणित मॉ03 पाठ14 - त्रिभुजों की समरूपता",
+   "size": 1878946,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 03 - ज्यामिति/गणित_मॉ03_पाठ15 - वृत.pdf",
+   "title": "गणित मॉ03 पाठ15 - वृत",
+   "size": 1906001,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 03 - ज्यामिति/गणित_मॉ03_पाठ16 - एक वृत मैं कोण तथा चक्रीय चतुर्भुज.pdf",
+   "title": "गणित मॉ03 पाठ16 - एक वृत मैं कोण तथा चक्रीय चतुर्भुज",
+   "size": 1753802,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 03 - ज्यामिति/गणित_मॉ03_पाठ17 - छेदक, स्पर्श रेखा तथा उनकी विशेषताऐ.pdf",
+   "title": "गणित मॉ03 पाठ17 - छेदक, स्पर्श रेखा तथा उनकी विशेषताऐ",
+   "size": 1763636,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 03 - ज्यामिति/गणित_मॉ03_पाठ18 - रचना.pdf",
+   "title": "गणित मॉ03 पाठ18 - रचना",
+   "size": 960745,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 03 - ज्यामिति/गणित_मॉ03_पाठ19 - निर्देशांक ज्यामिति.pdf",
+   "title": "गणित मॉ03 पाठ19 - निर्देशांक ज्यामिति",
+   "size": 1418397,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 04 - क्षेत्रमिति/गणित_मॉ04_पाठ21 - ढोस आकृतियों के पृष्टिय क्षेत्रफल और आयतन.pdf",
+   "title": "गणित मॉ04 पाठ21 - ढोस आकृतियों के पृष्टिय क्षेत्रफल और आयतन",
+   "size": 1082040,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 05 - त्रिकोणमिति/गणित_मॉ05_पाठ22 - त्रिकोणमिती का परिचय.pdf",
+   "title": "गणित मॉ05 पाठ22 - त्रिकोणमिती का परिचय",
+   "size": 824343,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 05 - त्रिकोणमिति/गणित_मॉ05_पाठ23 - कुछ विशष कोणों के त्रिकोणमितिय अनुपात.pdf",
+   "title": "गणित मॉ05 पाठ23 - कुछ विशष कोणों के त्रिकोणमितिय अनुपात",
+   "size": 641751,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 06 - सांख्यिकी/गणित_मॉ06_पाठ24 - आँकढे और उनका निरुपन.pdf",
+   "title": "गणित मॉ06 पाठ24 - आँकढे और उनका निरुपन",
+   "size": 1810513,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 06 - सांख्यिकी/गणित_मॉ06_पाठ25 - केन्द्रीय प्रविरती के मापक.pdf",
+   "title": "गणित मॉ06 पाठ25 - केन्द्रीय प्रविरती के मापक",
+   "size": 514279,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/Hindi Modules/मॉड्यूल 06 - सांख्यिकी/गणित_मॉ06_पाठ26 - प्रायिकता से परिचय.pdf",
+   "title": "गणित मॉ06 पाठ26 - प्रायिकता से परिचय",
+   "size": 493807,
+   "subject": "Mathematics"
+  },
+  {
+   "path": "Nios_Syllabus/Subjects/Mathematics/MAT_Syllabus.pdf",
+   "title": "MAT Syllabus",
+   "size": 193841,
+   "subject": "Mathematics"
+  }
+ ]
 }
