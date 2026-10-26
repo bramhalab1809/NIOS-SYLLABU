@@ -18,7 +18,7 @@ body.lock{overflow:hidden}
 .bar{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
 .brand{order:1;display:flex;gap:10px;align-items:center;min-width:0}
 .bt{min-width:0}
-#logo{display:grid;place-items:center;flex:none;width:38px;height:38px;border-radius:10px;background:var(--accent);color:#fff}
+#logo{display:grid;place-items:center;flex:none;width:48px;height:44px;border-radius:12px;background:#173b2f;color:#e5f4e9;font-size:13px;font-weight:800;letter-spacing:-.4px;box-shadow:inset 0 0 0 1px rgba(255,255,255,.12)}
 #logo .icon{width:21px;height:21px}
 h1{font-size:19px;font-weight:600;margin:0;line-height:1.15;white-space:nowrap}
 #meta{margin:1px 0 0;color:var(--muted);font-size:12.5px}
@@ -51,6 +51,9 @@ summary .f-open{display:none}
 details[open]>summary .f-open{display:block}
 details[open]>summary .f-closed{display:none}
 summary .fold{color:var(--accent)}
+summary .fold .icon{width:23px;height:23px;stroke-width:1.9}
+summary{gap:10px}
+.kids{margin-left:20px;padding-left:8px}
 summary .name{flex:1;min-width:0;overflow-wrap:anywhere}
 .acts{display:flex;gap:2px;opacity:0;transition:opacity .12s}
 summary:hover .acts,summary:focus-within .acts{opacity:1}

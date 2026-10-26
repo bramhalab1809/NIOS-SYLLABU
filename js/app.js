@@ -157,7 +157,7 @@ async function init() {
 }
 
 const logo = $("#logo");
-logo.textContent = "CA";
+logo.textContent = "NIOS";
 logo.setAttribute("aria-hidden", "true");
 document.querySelectorAll("[data-icon]").forEach((el) => el.append(icon(el.dataset.icon)));
 $("#searchIcon").append(icon("search"));
